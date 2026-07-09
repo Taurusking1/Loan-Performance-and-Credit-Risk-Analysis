@@ -163,7 +163,7 @@ Analyzes:
 
 **Dashboard Screenshot**
 
-![Borrower Analysis](images/borrower_income_analysis.png)
+![Borrower Analysis](images/borrower_and_income_analysis.png)
 
 ---
 
@@ -178,7 +178,7 @@ Examines:
 
 **Dashboard Screenshot**
 
-![Delinquency Analysis](images/delinquency_credit_risk_analysis.png)
+![Delinquency Analysis](images/delinquency_and_credit_risk_analysis.png)
 
 ---
 
