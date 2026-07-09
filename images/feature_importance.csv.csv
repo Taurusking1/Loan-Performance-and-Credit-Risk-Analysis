@@ -1,0 +1,27 @@
+Feature,Importance
+interest_rate,0.18952227978736755
+consolidated_debt_to_income,0.14719880957559314
+consolidated_annual_income,0.14338488620926676
+loan_amount,0.12644349799460897
+months_since_last_delinq,0.0772759490266471
+inquiries_last_12m,0.07042062144683836
+consolidated_verified_income_Verified,0.026875019883011324
+consolidated_verified_income_Source Verified,0.02298865816221219
+homeownership_RENT,0.02158609374922761
+term_group_Short Term,0.02094497246685434
+loan_purpose_debt_consolidation,0.020165068626781465
+application_type_joint,0.019211915149980534
+loan_purpose_credit_card,0.018609101595690306
+delinq_2y,0.017197265968307167
+homeownership_OWN,0.015744754102657296
+num_historical_failed_to_pay,0.014971274018688944
+loan_purpose_home_improvement,0.011164277976181239
+loan_purpose_other,0.010179073265914385
+loan_purpose_house,0.006426462718050066
+loan_purpose_major_purchase,0.0056594082544965335
+loan_purpose_medical,0.004441507911469517
+loan_purpose_moving,0.003197351590184227
+tax_liens,0.0024382461854233813
+loan_purpose_vacation,0.002134671625135063
+loan_purpose_small_business,0.0017715840110700324
+loan_purpose_renewable_energy,4.724869834261307e-05

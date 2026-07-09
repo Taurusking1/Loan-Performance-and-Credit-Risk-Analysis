@@ -1,0 +1,6 @@
+Model,Primary Task,Accuracy,ROC AUC,Non-Performing Loans Detected,Recommended for Credit Risk
+Linear Regression,Regression,-,-,-,No
+Standard Logistic Regression,Classification,0.982,0.752,0 / 36,No
+Balanced Logistic Regression,Classification,0.697,0.762,25 / 36,Yes
+Standard Random Forest,Classification,0.982,0.681,0 / 36,No
+Balanced Random Forest,Classification,0.982,0.689,0 / 36,No
